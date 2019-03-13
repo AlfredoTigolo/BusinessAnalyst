@@ -4,7 +4,7 @@ _alfredo.tigolo@yahoo.com_
  _424-646-3493_
 
 **OBJECTIVE**  
-Applying for Business Analyst position with So Cal Gas and to plan data modeling and analysis with MS Excel and develop, implement, maintain SQL queries for regular / ad-hoc production reporting and for validation / analysis.  Professional seeking to leverage knowledge of Bank of America’s web training module for Oracle 10g Research– Developing PL / SQL Programming Units: Dynamic SQL and Metadata along with e7 Architecture Studio experience with Relational Database by restructured tables to remove redundant data using stored procedures, and working knowledge of SQL query reporting statements.
+Applying for Business Analyst position to plan data modeling and analysis with MS Excel and develop, implement, maintain SQL queries for regular / ad-hoc production reporting and for validation / analysis.  Professional seeking to leverage knowledge of Bank of America’s web training module for Oracle 10g Research– Developing PL / SQL Programming Units: Dynamic SQL and Metadata along with e7 Architecture Studio experience with Relational Database by restructured tables to remove redundant data using stored procedures, and working knowledge of SQL query reporting statements.
 
 
 |**Skills** | Technologies
